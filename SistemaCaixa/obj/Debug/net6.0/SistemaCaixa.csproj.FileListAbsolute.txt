@@ -1,0 +1,15 @@
+C:\Users\caio.ruiz\source\repos\SistemaCaixa\SistemaCaixa\bin\Debug\net6.0\SistemaCaixa.exe
+C:\Users\caio.ruiz\source\repos\SistemaCaixa\SistemaCaixa\bin\Debug\net6.0\SistemaCaixa.deps.json
+C:\Users\caio.ruiz\source\repos\SistemaCaixa\SistemaCaixa\bin\Debug\net6.0\SistemaCaixa.runtimeconfig.json
+C:\Users\caio.ruiz\source\repos\SistemaCaixa\SistemaCaixa\bin\Debug\net6.0\SistemaCaixa.dll
+C:\Users\caio.ruiz\source\repos\SistemaCaixa\SistemaCaixa\bin\Debug\net6.0\SistemaCaixa.pdb
+C:\Users\caio.ruiz\source\repos\SistemaCaixa\SistemaCaixa\obj\Debug\net6.0\SistemaCaixa.csproj.AssemblyReference.cache
+C:\Users\caio.ruiz\source\repos\SistemaCaixa\SistemaCaixa\obj\Debug\net6.0\SistemaCaixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio.ruiz\source\repos\SistemaCaixa\SistemaCaixa\obj\Debug\net6.0\SistemaCaixa.AssemblyInfoInputs.cache
+C:\Users\caio.ruiz\source\repos\SistemaCaixa\SistemaCaixa\obj\Debug\net6.0\SistemaCaixa.AssemblyInfo.cs
+C:\Users\caio.ruiz\source\repos\SistemaCaixa\SistemaCaixa\obj\Debug\net6.0\SistemaCaixa.csproj.CoreCompileInputs.cache
+C:\Users\caio.ruiz\source\repos\SistemaCaixa\SistemaCaixa\obj\Debug\net6.0\SistemaCaixa.dll
+C:\Users\caio.ruiz\source\repos\SistemaCaixa\SistemaCaixa\obj\Debug\net6.0\refint\SistemaCaixa.dll
+C:\Users\caio.ruiz\source\repos\SistemaCaixa\SistemaCaixa\obj\Debug\net6.0\SistemaCaixa.pdb
+C:\Users\caio.ruiz\source\repos\SistemaCaixa\SistemaCaixa\obj\Debug\net6.0\SistemaCaixa.genruntimeconfig.cache
+C:\Users\caio.ruiz\source\repos\SistemaCaixa\SistemaCaixa\obj\Debug\net6.0\ref\SistemaCaixa.dll
